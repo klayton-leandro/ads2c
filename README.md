@@ -1,2 +1,15 @@
 # ads2c
+
+# JOAO VITOR OLIVEIRA _ *RA: 1901742
+
+# KLAYTON LEANDRO  _ *RA: 1800600 
+
+- ANALISE  
+- CODIFICAÇÃO 
+- DESIGNER 
+- OPERAÇÃO 
+- TESTE 
+
+
+
 ads2c commit 5 files
