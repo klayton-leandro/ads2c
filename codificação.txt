@@ -1,0 +1,31 @@
+[NOSSA FONTE CONFIAVEL : http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/]
+
+- Linguagem : Python 3 
+
+1 ° Biblioteca Numpy : 
+
+[O NumPy é um dos principais pacotes nessa área. Ele é destinado ao processamento de grandes matrizes e matrizes multidimensionais, e uma extensa coleção de funções matemáticas de alto nível e métodos implementados possibilitam a execução de várias operações com esses objetos.]
+
+
+2 º Biblioteca SeaBorn:
+
+[Á SeaBorn é essencial em nosso projeto porque ele é uma API de alto Nível baseada na Biblioteca matplotlib.
+está API usamos ela para estar incluindo alguns tipos  séries temporais, diagramas conjuntos e diagramas de violino. 
+Para nossos analistas de hardware obtiver otimo desempenho para dar um otimo suporte analisando os graficos de nosso carro flutuante.]
+
+
+3 º Biblioteca  Scikit-learn:
+
+[Este módulo Python baseado no NumPy e SciPy é uma das melhores bibliotecas para trabalhar com dados. Ele fornece algoritmos para muitas tarefas padrão de aprendizado de máquina e mineração de dados, como clustering, regressão, classificação, redução de dimensionalidade e seleção de modelo.]
+
+4 º Biblioteca  TensorFlow: 
+
+[O TensorFlow é um framework popular para aprendizagem profunda, desenvolvido no Google Brain. 
+Ele fornece habilidades para trabalhar com redes neurais artificiais com vários conjuntos de dados. 
+Entre as aplicações mais populares do TensorFlow estão a identificação de objetos, 
+o reconhecimento de fala e muito mais. 
+Há também diferentes “ajudantes” que rodam sobre o TensorFlow regular, como tflearn, tf-slim, skflow]
+
+5 º Biblioteca  PyTorch: 
+
+[O PyTorch é uma estrutura que permite executar cálculos de tensores com aceleração de GPU, criar grafos computacionais dinâmicos e calcular automaticamente gradientes. Além disso, o PyTorch oferece uma API rica para resolver aplicativos relacionados a redes neurais.]

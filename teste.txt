@@ -1,0 +1,7 @@
+[NOSSOS TESTES VERSION: 1.0]
+
+TensorFlow : verificamos os codigos neurais ver se estão todos em ordem ! , 
+
+Não podemos de esquecer o Scikit-learn para ler os algoritimos neurais ver se estão todos corretos para não obter erro 
+na comunicação com nossos sistema de analise , quando ouver algum erro  nosso SeaBorn ja indentifica em seus graficos de diagramas
+com isso o modulo Numpy já finaliza nosso teste obtendo grandes matrizes de processamento para ter um otimo desempenho .
