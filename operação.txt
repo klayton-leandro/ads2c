@@ -1,0 +1,10 @@
+1º Temos dois pontos de partida no Brasil, localizados em São Paulo e em Brasília
+2º Para utilizar o serviço, primeiro o cliente deverá agendar seu dia de voo e efetuar o pagamento
+3º No local de partida, o cliente, acompanhado ou não, deverá pegar o carro e flutuar a uma altura
+de aproximadamente 5.000 pés.
+4º Quando Estiver pronto e equipado para pular, o cliente deverá apertar o botão de salto, que ejetará
+o banco que ele está, o deslocando para a queda livre
+5º com aproximadamente 30s de queda, deverá puxar o paraquedas  e aproveitar os outros 4.30s com 
+um salto tranquilo
+6º Quando em terra firme, o cliente deverá apertar um botão que mostrará sua localização para os 
+colaboradores da floter rocket que irão busca-los e leva-los para o ponto em que partiu.
